@@ -1,5 +1,5 @@
 '''
-    MongoDB Atlas connection test
+    MongoDB Atlas test connection
     References:
         https://www.mongodb.com/docs/drivers/pymongo/
 '''
